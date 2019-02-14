@@ -1,0 +1,11 @@
+{
+    "port": 8080,
+    "request_token_url": "https://api.twitter.com/oauth/request_token",
+    "access_token_url": "https://api.twitter.com/oauth/access_token",
+    "authorize_url": "https://api.twitter.com/oauth/authorize",
+    "consumer_key": "wyWojIPqQZrP5bEjagwDsxNfJ",
+    "consumer_secret": "btCUsQHz9iwvw5qomsmi8fTSB8Xx4RipMMoC2aFT7eat44pUbe",
+    "oauth_version": "1.0",
+    "oauth_signature": "HMAC-SHA1",
+    "oauth_callback": "https://dttunnel.localtunnel.me/request_token"
+}

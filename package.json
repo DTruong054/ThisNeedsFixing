@@ -1,0 +1,26 @@
+{
+  "name": "twitter-notes",
+  "version": "1.0.0",
+  "description": "An application for leaving notes on twitter friends, and followers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DTruong054/exercise_02_01_01.git"
+  },
+  "author": "Daniel Truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DTruong054/exercise_02_01_01/issues"
+  },
+  "homepage": "https://github.com/DTruong054/exercise_02_01_01#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "oauth": "^0.9.15"
+  }
+}
